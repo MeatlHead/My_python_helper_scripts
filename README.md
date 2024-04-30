@@ -6,6 +6,7 @@ This repository contains two Python scripts for encrypting and decrypting data u
 
 - Python 3.x
 - cryptography library (`pip install cryptography`)
+- pip install -r requirements.txt
 
 ## Encryption Script
 
